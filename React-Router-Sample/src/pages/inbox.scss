@@ -1,0 +1,14 @@
+.inbox {
+    height: 90%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    .mainContentLeft {
+        flex: 1;
+    }
+
+    .mainContentRight {
+        flex: 2;
+    }
+}

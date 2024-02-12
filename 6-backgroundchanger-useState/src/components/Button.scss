@@ -1,0 +1,15 @@
+.Btn {
+    border: 1px solid #000;
+    border-radius: 5px;
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    transition: all 0.3s ease-in-out;
+    color: white;
+    font-weight: bold;
+    padding: 0.9rem 1.8rem;
+
+    &:hover {
+        cursor: pointer;
+    }
+
+}
